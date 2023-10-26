@@ -56,4 +56,5 @@ out/
 /.nb-gradle/
 
 ### VS Code ###
+.vs
 .vscode/
